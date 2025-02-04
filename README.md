@@ -45,7 +45,7 @@ I'm a passionate **Full Stack Developer** with over **3 years of experience** bu
 
 ### 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ftureo&theme=radical&hide_border=true)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ftureo)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ftureo&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ftureo&layout=compact&theme=radical&hide_border=true)
 
