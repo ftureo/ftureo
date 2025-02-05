@@ -63,7 +63,7 @@ I'm a passionate **Full Stack Developer** with over **3 years of experience** bu
 
 ### 💬 Let's Connect!
 📩 Email: [fabianestebantureo@gmail.com](mailto:fabianestebantureo@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/fabian-tureo](#)  
+💼 LinkedIn: [linkedin.com/in/fabian-tureo](https://www.linkedin.com/in/fabian-esteban-tureo)  
 🚀 GitHub: [github.com/ftureo](https://github.com/ftureo)  
 
 👀 **Looking for collaboration or hiring?** Feel free to reach out!
