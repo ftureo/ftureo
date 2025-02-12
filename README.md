@@ -36,15 +36,13 @@ I'm a passionate **Full Stack Developer** with over **3 years of experience** bu
 🔹 Integrated **AWS Lambda, DynamoDB, S3** with **Event-Driven Architecture**.  
 🔹 Implemented **Google Pay & Apple Pay** for subscriptions.  
 🔹 Migrated API v1 to API v2 with **NoSQL (DynamoDB), SQL (AuroraDB, MSSQL, MySQL)**.  
-🔹 Automated deployments using **CloudFormation and Azure Pipelines**.  
-🔗 [View Project](https://github.com/ftureo/club-la-nacion)
+🔹 Automated deployments using **CloudFormation and Azure Pipelines**.
 
 #### **📦 BuyBye Brasil**
 🔹 Migrated a **monolithic API** to a **microservices-based API**.  
 🔹 Achieved a **40% improvement in response times** using **Sequelize, Node.js & TypeScript**.  
 🔹 Designed **Repository & MVC patterns** to enhance modularity.  
-🔹 Developed in an **agile, international team** (Portuguese-speaking environment).  
-🔗 [View Project](https://github.com/ftureo/buybye-brasil)
+🔹 Developed in an **agile, international team** (Portuguese-speaking environment). 
 
 #### **🎓 Full Stack Mentor**
 🔹 Provided mentorship on **Frontend (React, Tailwind, Redux)** and **Backend (Node.js, Express, MongoDB)**.
