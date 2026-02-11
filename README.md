@@ -31,6 +31,19 @@ I'm a passionate **Full Stack Developer** with over **3 years of experience** bu
 ---
 
 ### 📂 Featured Projects:
+### 🧭 Current Position - Pre-Launch Ready
+#### **⚡ Vortex IT — MiCorreo (Correo Argentino) | Ecosistema Digital**
+
+🔹 Actively contributing to the **migration of MiCorreo** into a scalable and modern stack called **Ecosistema Digital**, with a strong focus on long-term product evolution.  
+🔹 Driving the **replication of legacy features** into a **microservices-based backend**, alongside **reactive and modular frontend architecture**.  
+🔹 Played a key role in achieving **100% resolution of the pre-release bug board** (**35+ assigned issues**) prior to the first productive release.  
+🔹 Resolved high-impact issues by **refactoring architectural and design patterns** across **10+ core product features**, improving maintainability and delivery speed.  
+🔹 Working **cross-functionally** with **business, commercial, and infrastructure teams** to align technical decisions with product and operational goals.  
+🔹 Proactively identifying **potential risks and system weaknesses**, proposing improvements in **error tracking, observability, and release confidence**.  
+🔹 Implementing modern development workflows using **AI as Copilot and AI Agents** to accelerate delivery, improve code quality, and support decision-making.
+🔹 Purposing modern approach using AWS as cloud solutions (AWS Solution Architect in progress)
+🔹 Tech Stack and mindset: NodeJS/NestJS, React/ReactQuery/Zustand, atomic design + system design in transition, microservices + Redis + Docker + Postgres (Prisma), AWS -> Lambda, DynamoDB   
+
 #### **🚀 Club La Nacion**
 🔹 Built a **Strapi v4 CMS dashboard** for homepage customization.  
 🔹 Integrated **AWS Lambda, DynamoDB, S3** with **Event-Driven Architecture**.  
