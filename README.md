@@ -41,8 +41,8 @@ I'm a passionate **Full Stack Developer** with over **3 years of experience** bu
 🔹 Working **cross-functionally** with **business, commercial, and infrastructure teams** to align technical decisions with product and operational goals.  
 🔹 Proactively identifying **potential risks and system weaknesses**, proposing improvements in **error tracking, observability, and release confidence**.  
 🔹 Implementing modern development workflows using **AI as Copilot and AI Agents** to accelerate delivery, improve code quality, and support decision-making.
-🔹 Purposing modern approach using AWS as cloud solutions (AWS Solution Architect in progress)
-🔹 Tech Stack and mindset: NodeJS/NestJS, React/ReactQuery/Zustand, atomic design + system design in transition, microservices + Redis + Docker + Postgres (Prisma), AWS -> Lambda, DynamoDB   
+🔹 Purposing modern approach using AWS as cloud solutions (AWS Solution Architect in progress).
+🔹 Tech Stack and mindset: NodeJS/NestJS, React/ReactQuery/Zustand, atomic design + system design in transition, microservices + Redis + Docker + Postgres (Prisma), AWS -> Lambda, DynamoDB.
 
 #### **🚀 Club La Nacion**
 🔹 Built a **Strapi v4 CMS dashboard** for homepage customization.  
