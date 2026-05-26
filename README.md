@@ -111,16 +111,6 @@ I'm especially interested in:
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ftureo)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ftureo&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ftureo&layout=compact&theme=radical&hide_border=true)
-
----
-
 # 📫 Connect With Me
 
 📩 Email: [fabianestebantureo@gmail.com](mailto:fabianestebantureo@gmail.com)
