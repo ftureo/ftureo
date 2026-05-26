@@ -1,80 +1,136 @@
-# Hi there! 👋 I'm Fabián Tureo
+# Hi there 👋 I'm Fabián Tureo
 
-## 🚀 MERN Full Stack Developer | Cloud & DevOps Enthusiast
+## Software Engineer focused on Cloud Architecture, AI Workflows & Scalable Systems
 
-I'm a passionate **Full Stack Developer** with over **3 years of experience** building scalable applications using **JavaScript**, **React**, **Node.js**, and **AWS services**. I specialize in **MERN Stack development**, **Cloud computing**, and **performance optimization**.
+I'm a Full Stack Engineer with experience building and evolving cloud-native applications using modern JavaScript/TypeScript ecosystems, AWS services and distributed architectures.
 
-### 🔥 What I Do:
-- Develop **scalable and high-performance applications**.
-- Work with **AWS Lambda, DynamoDB, S3, CloudFormation, API Gateway**.
-- Build and optimize **Strapi v4 CMS dashboards**.
-- Implement **Event-Driven Architectures (EDA)** and microservices.
-- Automate deployments using **CI/CD pipelines** (Azure, GitHub Actions, etc.).
-- Mentor and guide **junior developers**.
-- Love **collaborating in agile teams** to solve complex challenges.
+My current focus is on:
+- Designing scalable backend ecosystems
+- AI-assisted engineering workflows
+- Cloud architecture & serverless platforms
+- Frontend performance and modular systems
+- Event-driven and microservices-based solutions
+- Observability, maintainability and developer experience
+
+Long-term, I'm evolving toward Staff Engineering, AI-driven systems and cloud architecture roles, bridging software engineering with intelligent workflows and scalable product ecosystems.
 
 ---
 
-### 🛠️ Tech Stack:
+# ⚡ Current Focus
 
+- ☁️ AWS Architecture (Solutions Architect path)
+- 🤖 AI-assisted development & Agentic Workflows
+- 🧠 Distributed Systems & Event-Driven Architectures
+- 📊 Observability, scalability & performance optimization
+- 🧩 Modern Frontend Ecosystems (React / Next.js)
+- 🚀 Product-oriented engineering and technical leadership
+
+---
+
+# 🛠️ Tech Ecosystem
+
+## Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+
+## Backend & Architecture
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![Microservices](https://img.shields.io/badge/-Microservices-222222?style=for-the-badge)
+
+## Cloud & Data
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+
+## AI & Automation
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=for-the-badge)
 
 ---
 
-### 📂 Featured Projects:
-### 🧭 Current Position - Pre-Launch Ready
-#### **⚡ Vortex IT — MiCorreo (Correo Argentino) | Ecosistema Digital**
+# 🚀 Selected Experience
 
-- 🔹 Actively contributing to the **migration of MiCorreo** into a scalable and modern stack called **Ecosistema Digital**, with a strong focus on long-term product evolution.
-- 🔹 Driving the **replication of legacy features** into a **microservices-based backend**, alongside **reactive and modular frontend architecture**.
-- 🔹 Played a key role in achieving **100% resolution of the pre-release bug board** (**35+ assigned issues**) prior to the first productive release.
-- 🔹 Resolved high-impact issues by **refactoring architectural and design patterns** across **10+ core product features**, improving maintainability and delivery speed.
-- 🔹 Working **cross-functionally** with **business, commercial, and infrastructure teams** to align technical decisions with product and operational goals.
-- 🔹 Proactively identifying **potential risks and system weaknesses**, proposing improvements in **error tracking, observability, and release confidence**.
-- 🔹 Implementing modern development workflows using **AI as Copilot and AI Agents** to accelerate delivery, improve code quality, and support decision-making.
-- 🔹 Promoting a modern cloud-first approach using **AWS** (AWS Solutions Architect — in progress).
-- 🔹 Tech stack & mindset: **Node.js / NestJS**, **React / React Query / Zustand**, Atomic Design → Design Systems, **Microservices**, **Redis**, **Docker**, **PostgreSQL (Prisma)**, **AWS (Lambda, DynamoDB)**.
+## ⚡ Vortex IT — MiCorreo (Correo Argentino) | Ecosistema Digital
 
-#### **🚀 Club La Nacion**
-🔹 Built a **Strapi v4 CMS dashboard** for homepage customization.  
-🔹 Integrated **AWS Lambda, DynamoDB, S3** with **Event-Driven Architecture**.  
-🔹 Implemented **Google Pay & Apple Pay** for subscriptions.  
-🔹 Migrated API v1 to API v2 with **NoSQL (DynamoDB), SQL (AuroraDB, MSSQL, MySQL)**.  
-🔹 Automated deployments using **CloudFormation and Azure Pipelines**.
+- Contributing to the modernization of MiCorreo into a scalable cloud-oriented ecosystem with a strong long-term architectural vision.
+- Replicating and evolving legacy features into microservices-driven backend services and modular frontend systems.
+- Achieved 100% resolution of the pre-release bug board (35+ assigned issues) before the first productive launch.
+- Refactored architectural patterns across multiple core features to improve maintainability, scalability and delivery confidence.
+- Working cross-functionally with infrastructure, business and commercial teams to align engineering decisions with operational goals.
+- Promoting modern workflows using AI-assisted development and intelligent tooling strategies.
 
-#### **📦 BuyBye Brasil**
-🔹 Migrated a **monolithic API** to a **microservices-based API**.  
-🔹 Achieved a **40% improvement in response times** using **Sequelize, Node.js & TypeScript**.  
-🔹 Designed **Repository & MVC patterns** to enhance modularity.  
-🔹 Developed in an **agile, international team** (Portuguese-speaking environment). 
-
-#### **🎓 Full Stack Mentor**
-🔹 Provided mentorship on **Frontend (React, Tailwind, Redux)** and **Backend (Node.js, Express, MongoDB)**.
-🔹 Assisted students with **live coding, debugging sessions, and code reviews**.
-🔹 Helped beginners transition into professional developers.
+**Stack:** Node.js, NestJS, React, React Query, Zustand, Docker, PostgreSQL, Redis, AWS, Microservices
 
 ---
 
-### 📊 GitHub Stats:
+## 🚀 Club La Nación
+
+- Developed a Strapi v4 CMS platform for homepage customization and content management.
+- Built cloud-native integrations using AWS Lambda, DynamoDB, S3 and Event-Driven Architecture.
+- Participated in API evolution and migration processes involving SQL and NoSQL ecosystems.
+- Contributed to subscription flows with Google Pay and Apple Pay integrations.
+- Automated deployment workflows using CloudFormation and Azure Pipelines.
+
+**Stack:** Node.js, Strapi, AWS Lambda, DynamoDB, S3, AuroraDB, MSSQL, CloudFormation
+
+---
+
+## 📦 BuyBye Brasil
+
+- Participated in the migration from a monolithic API to a microservices-oriented architecture.
+- Improved API response times by approximately 40% through backend optimization strategies.
+- Applied Repository and MVC patterns to improve modularity and maintainability.
+- Collaborated within an international agile team in a Portuguese-speaking environment.
+
+**Stack:** Node.js, TypeScript, Sequelize, Microservices, SQL
+
+---
+
+# 🧠 Engineering Mindset
+
+I enjoy solving complex technical problems through scalable and maintainable solutions, balancing engineering quality, delivery speed and long-term product evolution.
+
+I'm especially interested in:
+- AI-native engineering
+- Distributed systems
+- Cloud architecture
+- Observability & reliability
+- Developer productivity
+- Technical leadership
+- Intelligent automation workflows
+
+---
+
+# 📊 GitHub Stats
 
 ![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=ftureo)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ftureo&show_icons=true&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ftureo&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### 💬 Let's Connect!
-📩 Email: [fabianestebantureo@gmail.com](mailto:fabianestebantureo@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/fabian-tureo](https://www.linkedin.com/in/fabian-esteban-tureo)  
-🚀 GitHub: [github.com/ftureo](https://github.com/ftureo)  
+# 📫 Connect With Me
+
+📩 Email: [fabianestebantureo@gmail.com](mailto:fabianestebantureo@gmail.com)
+
+💼 LinkedIn: [linkedin.com/in/fabian-esteban-tureo](https://www.linkedin.com/in/fabian-esteban-tureo)
+
+🚀 GitHub: [github.com/ftureo](https://github.com/ftureo)
+
+---
+
+> “Building scalable systems today while evolving toward AI-driven cloud architectures for tomorrow.”
 
 👀 **Looking for collaboration or hiring?** Feel free to reach out!
